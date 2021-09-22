@@ -41,11 +41,11 @@ Baseline|No battery|Greedy| Our ESS |
 |Saving rate|-|9.39%| **16.62%**  |
 
 ### Peformence curve
-![Performence curve](figure2.PNG )
+![Performence curve](https://github.com/bongseokkim/project_rl-ess-control/blob/master/figure1.png )
 
 
 ### Trained Optimal Action Plot
-![Action](figure1.PNG)
+![Action](https://github.com/bongseokkim/project_rl-ess-control/blob/master/figure2.png)
 
 
 
